@@ -1,0 +1,133 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+a{
+  text-decoration: none;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 152rem;
+}.dat-hang-thanh-cong-x7T {
+  box-sizing: border-box;
+  padding: 2.9rem 15.45rem 40rem 23.85rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.auto-group-dsl1-eW5 {
+  margin: 0rem 49.55rem 14.6rem 25.85rem;
+  width: calc(100% - 64.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  transition: transform 0.5s ease;
+  text-transform: uppercase;
+}
+.auto-group-dsl1-eW5:hover{
+  transform: scale(1.1);
+}
+.auto-group-dsl1-eW5:active{
+  transform: scale(1.1);
+}
+.dat-hang-thanh-cong-x7T .auto-group-dsl1-eW5 .rectangle-2-NBB {
+  margin-right: 1.6rem;
+  width: 100px;
+  height: 10rem;
+  cursor: pointer;
+  vertical-align: top;
+  flex-shrink: 0;
+  border-radius: 50%;
+  border: 1px solid #000000;
+}
+.transport-food-J4q {
+  cursor: pointer;
+  display: flex;
+  font-size: 6.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #f17228;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.transport-food-J4q-sub-1 {
+  font-size: 6.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #f17228;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+}
+.transport-food-J4q-sub-2 {
+  font-size: 6.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #ec3800;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+}
+.dat-hang-thanh-cong-x7T .bn-t-hng-thnh-cng-vui-lng-ch-in-thoi-khi-hng-giao-n-YtH {
+  margin-bottom: 5.1rem;
+  max-width: 114.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #000000;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.dat-hang-thanh-cong-x7T .bn-t-hng-thnh-cng-vui-lng-ch-in-thoi-khi-hng-giao-n-YtH .bn-t-hng-thnh-cng-vui-lng-ch-in-thoi-khi-hng-giao-n-YtH-sub-0 {
+  font-size: 6.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #ff2d00;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+}
+.dat-hang-thanh-cong-x7T .bn-t-hng-thnh-cng-vui-lng-ch-in-thoi-khi-hng-giao-n-YtH .bn-t-hng-thnh-cng-vui-lng-ch-in-thoi-khi-hng-giao-n-YtH-sub-1 {
+  font-size: 5.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #313131;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+}
+.group-17-8zu {
+  margin: 0rem 24.95rem 0rem 16.45rem;
+  width: calc(100% - 41.4rem);
+  height: 7.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2000000763;
+  color: #ec3800;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #ec3800;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+  transition: background-color 0.5s ease, color 0.5s ease; 
+}
+.group-17-8zu:hover{
+  background-color: #f6b100;
+  color: #ffffff;
+  border: #ffffff;
+}
